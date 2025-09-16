@@ -1,0 +1,9 @@
+# Suggested contents for /spark-deep-dive/requirements.txt
+
+pyspark
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+pyarrow
